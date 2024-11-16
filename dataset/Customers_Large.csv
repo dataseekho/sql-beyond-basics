@@ -1,0 +1,51 @@
+CustomerID,Name,Region,Segment
+1,Christina Harrell,East,Corporate
+2,David Charles,East,Corporate
+3,Cheryl Harris,East,Corporate
+4,Cameron King,Central,Corporate
+5,Tanya Kim,West,Corporate
+6,Lauren Walls,West,Wholesale
+7,Christine King,West,Wholesale
+8,Derek Sanders,Central,Retail
+9,Steven Sullivan,Central,Corporate
+10,Shawn Bryan,West,Corporate
+11,Michael Morales,North,Retail
+12,Carol Brown,West,Corporate
+13,Denise Martin,Central,Wholesale
+14,Eric Snyder,Central,Wholesale
+15,Sharon Leonard,South,Corporate
+16,Rachel Hartman,West,Corporate
+17,Mark Silva,West,Corporate
+18,Justin Carr,South,Retail
+19,Deborah Kelly,East,Wholesale
+20,Vanessa Mcpherson,South,Wholesale
+21,Kristine Daniels,Central,Retail
+22,Lori Cole,Central,Wholesale
+23,Randy Duke,North,Retail
+24,Laura Nunez,South,Corporate
+25,Denise Mack,West,Corporate
+26,Robert Andrews,South,Retail
+27,Michelle Gordon,North,Wholesale
+28,Bradley Huerta,Central,Corporate
+29,Crystal Green,North,Wholesale
+30,Alexander Chavez,Central,Retail
+31,Sherri Knox,South,Wholesale
+32,Michael Hamilton,East,Wholesale
+33,William Brown,East,Wholesale
+34,Gina Scott,North,Corporate
+35,Lori Prince,East,Corporate
+36,Dr. Steven Walter,West,Retail
+37,Lori Phelps MD,West,Corporate
+38,Luis Byrd,North,Retail
+39,Taylor Moore,North,Retail
+40,David Wong,West,Wholesale
+41,Misty Kim,West,Corporate
+42,Zachary Ray,Central,Corporate
+43,Patricia Matthews,East,Retail
+44,Maria Black,Central,Wholesale
+45,Joseph Kemp DDS,North,Corporate
+46,Megan Melton,West,Wholesale
+47,Kimberly Crosby,East,Retail
+48,Darrell Brady,East,Retail
+49,David Cobb,East,Retail
+50,Joshua Vang,South,Corporate
